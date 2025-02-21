@@ -4,3 +4,6 @@
 [submodule "res_api_odoo_developpement"]
 	path = res_api_odoo_developpement
 	url = https://github.com/moustapha96/res_api_odoo_developpement.git
+[submodule "modul-sms-odoo"]
+	path = modul-sms-odoo
+	url = https://github.com/moustapha96/modul-sms-odoo
