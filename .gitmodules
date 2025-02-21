@@ -1,3 +1,6 @@
 [submodule "orbit"]
 	path = orbit
 	url = https://github.com/MouhamadouFALL/orbit.git
+[submodule "res_api_odoo_developpement"]
+	path = res_api_odoo_developpement
+	url = https://github.com/moustapha96/res_api_odoo_developpement.git
